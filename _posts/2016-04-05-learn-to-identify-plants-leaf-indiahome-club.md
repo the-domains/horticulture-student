@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.indiahomeclub.com'
-  name: Indiahomeclub
-  favicon: null
-  domain: www.indiahomeclub.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.indiahomeclub.com/botanical_garden/bot_leaf_shapes.php'
+inLanguage: en
+starred: false
 keywords:
   - leaf
   - shaped
@@ -18,17 +17,20 @@ keywords:
   - narrow
   - lanceolate
 description: 'Leaves are generally speaking broad, flat, and thin: these features allow them to intercept light for photosynthesis and allow gases to enter or leave the leaf easily. The flat surface of the leaf is termed the leaf blade or lamina.'
-inLanguage: en
+datePublished: '2016-04-05T02:23:54.981Z'
+dateModified: '2016-04-05T02:23:41.816Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.indiahomeclub.com/botanical_garden/bot_leaf_shapes.php'
-title: Learn to Identify Plants-Leaf -INDIAHOME CLUB
-datePublished: '2016-04-05T02:13:48.795Z'
-dateModified: '2016-04-05T02:11:35.825Z'
+title: Leaf Shapes
 sourcePath: _posts/2016-04-05-learn-to-identify-plants-leaf-indiahome-club.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Indiahomeclub
+  domain: www.indiahomeclub.com
+  url: 'http://www.indiahomeclub.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 

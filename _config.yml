@@ -1,0 +1,28 @@
+name: Horticulture Student
+favicon: null
+layout_spectrum: 0.9724386250600219
+typography_spectrum: 0.9087755715008825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3491518907248974
+  lightness: 0.453570764278993
+  saturation: 0.9181804908439517
+  rhythmicContrast: 0.6778552019968629
+purpose: []
